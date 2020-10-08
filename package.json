@@ -1,0 +1,16 @@
+{
+  "description": "Local Branch Manager",
+  "name": "lbm",
+  "homepage": "https://github.com/daniel0mullins/lbm",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=10.15.0"
+  },
+  "engine-strict": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "nodegit": "0.27.0",
+    "yargs": "12.0.5"
+  }
+}
